@@ -41,4 +41,8 @@ color: var(--verde);
     font-size: 18px;
     align-items: center;
     width:100%;
+    border-bottom:;
+    border-left:;
+    border-rigth:;
+    border-top:;
 }
